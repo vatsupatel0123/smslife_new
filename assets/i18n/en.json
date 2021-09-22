@@ -1,0 +1,16 @@
+{
+	"app_bar": {
+		"home": "Home"
+	},
+	"text": {
+		"login": "Login",
+		"mobileNumber": "Mobile Number",
+		"registeryet": "Your mobile number is not registered yet?",
+		"terms": "By sign in, you agree to our Terms and Conditions",
+		"noDataAvailable": "No message available!",
+		"logout": "Logout",
+		"areyousure": "Are you sure you want to Logout?",
+		"yes":"Yes",
+		"no": "No"
+	}
+}
